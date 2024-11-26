@@ -1,6 +1,6 @@
 # Disease-Diagnose
 
-# link to the dataset
+Source data from: [kaggle](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
 import kagglehub
 
 # Download latest version
